@@ -1,0 +1,11 @@
+.idea/
+target/
+.DS_Store
+logs/
+local.log
+*.iml
+node_modules/
+results/
+log/
+package-lock.json
+*.log
