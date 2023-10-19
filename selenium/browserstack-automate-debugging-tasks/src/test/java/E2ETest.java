@@ -34,7 +34,6 @@ public class E2ETest extends TestBase {
                 continue;
             }
         }
-        //driver.findElement(By.cssSelector(".float-cart__close-btn")).click();
         driver.findElement(By.cssSelector(".buy-btn")).click();
         driver.findElement(By.id("firstNameInput")).sendKeys("Nithya");
         driver.findElement(By.id("lastNameInput")).sendKeys("Mani");
