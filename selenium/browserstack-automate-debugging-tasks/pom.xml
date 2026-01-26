@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <selenium.version>4.12.1</selenium.version>
         <testng.version>7.8.0</testng.version>
-        <assertj-core-version>3.23.1</assertj-core-version>
+        <assertj-core-version>3.27.7</assertj-core-version>
         <opencsv-version>5.7.1</opencsv-version>
         <webdrivermanager-version>5.5.3</webdrivermanager-version>
         <maven-surefire-plugin-version>3.0.0-M5</maven-surefire-plugin-version>
